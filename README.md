@@ -5,7 +5,7 @@ A fully functional Tic Tac Toe web game developed using HTML, CSS, and JavaScrip
 This project demonstrates core front-end development skills including DOM manipulation, game logic implementation, and responsive UI design.
 
 
-📌 Features
+<h1>📌 Features</h1>
 
 🎯 Two-player game (Player X vs Player O)
 
@@ -19,7 +19,7 @@ This project demonstrates core front-end development skills including DOM manipu
 
 🎨 Clean and minimal UI
 
-🛠️ Technologies Used
+<h1>🛠️ Technologies Used</h1>
 
 HTML5 – Structure of the game
 
@@ -27,7 +27,7 @@ CSS3 – Styling and layout
 
 JavaScript (ES6) – Game logic and interactivity
 
-🧠 How the Game Works
+<h1>🧠 How the Game Works</h1>
 
 The game board consists of a 3×3 grid.
 
@@ -45,7 +45,7 @@ If all 9 cells are filled without a winner, the game declares a draw.
 
 The Reset button restarts the game.
 
-🎯 Learning Objectives
+<h1>🎯 Learning Objectives</h1>
 
 This project helped me understand:
 
@@ -59,7 +59,7 @@ Game state management
 
 Basic UI/UX principles
 
-📌 Future Improvements
+<h1>📌 Future Improvements</h1>
 
 🤖 Add AI opponent (single-player mode)
 
