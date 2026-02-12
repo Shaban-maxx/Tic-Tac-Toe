@@ -1,4 +1,4 @@
-#Tic Tac Toe
+<h1>Tic Tac Toe</h1>
 <br>
 
 A fully functional Tic Tac Toe web game developed using HTML, CSS, and JavaScript.
